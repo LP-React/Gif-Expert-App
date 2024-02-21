@@ -1,6 +1,6 @@
 # [Gif-Expert-App](https://lp-react.github.io/Gif-Expert-App/)
 <p align='center'>
-  <img src="https://res.cloudinary.com/diryo1oi1/image/upload/v1708474595/tuur4dt8bugl6pm2ivli.gif" width="480px">
+  <img src="gif-expert-app.gif" width="480px">
 </p>
 
 ## 📖 Resumen 📖
